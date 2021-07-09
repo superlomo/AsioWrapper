@@ -3,6 +3,4 @@
 
 #pragma once
 
-#include <iostream>
-
-// TODO: Reference additional headers your program requires here.
+int32_t addTest(int32_t a, int32_t b);

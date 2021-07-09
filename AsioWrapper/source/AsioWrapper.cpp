@@ -3,10 +3,7 @@
 
 #include "AsioWrapper.h"
 
-using namespace std;
-
-int main()
+int32_t addTest(int32_t a, int32_t b)
 {
-	cout << "Hello CMake." << endl;
-	return 0;
+	return a + b;
 }
