@@ -7,5 +7,4 @@ project ("AsioWrapper")
 
 # Include sub-projects.
 add_subdirectory ("AsioWrapper")
-
 add_subdirectory("AsioWrapperTest")
